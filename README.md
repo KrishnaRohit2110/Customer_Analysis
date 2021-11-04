@@ -4,6 +4,8 @@ Build a unsupervised algorithm to cluster customer data
 
 
 **Takeaway**
+
+
 The customers can be divided into 4 groups:
 
 Group 0: Old customers with high income, but low on consumption. Their purchase channel is mostly through stores
